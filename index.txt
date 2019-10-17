@@ -1,0 +1,51 @@
+Table of contents
+
+JSP templates ********************************************************************************************************************
+
+* Template:           General HTML template incl. Bootstrap link and container div, c tag and form tags
+
+* BootstrapTable:     Table with 3 columns as well as Show/Edit/Delete buttons
+
+* CreateForm:         Form with 3 input fields and submit button for creating a new item. Styled with Bootstrap
+
+* EditForm:           Form with hidden field to call a PutRequest route, 3 input fields and submit button for editing an item. Styled with Bootstrap
+
+
+
+Java files ***************************************************************************************************************************
+
+* Controller:         Most common controller routes
+
+* Repository:         A couple of useful method signatures
+
+* Services:           The most common services methods
+
+* Model:              Most common model fields, incl basic validations   
+
+
+
+Other Spring files  ********************************************************************************************************************
+
+* Properties:         Lines to insert in application.properties to specify web templates folder and connect to database
+
+
+
+SQL **********************************************************************************************************************************
+
+* sqlstrings:         Useful raw SQL strings that can be used in MySQL workbench
+
+
+
+Still to be inserted:  ################################################################################
+
+* Drop down menu
+
+* Additional model fields
+
+* Specs for each type of model relation
+
+* Misc  Queries/services/repository methods
+
+
+
+
